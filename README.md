@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi! 👋 I'm Hannif.
 
-<!--
-**HanifAuliya/HanifAuliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An independent Software Engineer who loves Mobile Technology and i like Art so much!
 
-Here are some ideas to get you started:
+I'm currently active in Bangkit Academy from Dicoding! and currently I am also working on my thesis (i hope that it goes well T.T)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently Studying at [Lambung Mangkurat University](https://ulm.ac.id/id/)
+- 💬 Feel free to ask me about Mobile Programming ^^.
+- 📫 How to reach me: Hanifauliyamuhammad@gmail.com
+
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://www.php.net/"><img align="left" alt="php" title="php" width="21px" src="https://iconape.com/wp-content/files/ac/371303/svg/371303.svg" /></a>
+  <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" /></a>
+  <a href="https://www.android.com/"><img align="left" alt="Android" title="Android" width="21px" src="https://iconape.com/wp-content/files/uq/385827/svg/385827.svg" /></a>
+  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://iconape.com/wp-content/files/fg/371054/svg/371054.svg" /></a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/BayuAriyadi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BayuAriyadi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BayuAriyadi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/bayuariyadi/">LinkedIn</a>
+- <a href="https://fuujin.tech">fuujin.tech</a>
+- bayuariyadi@gmail.com
+- <a href="https://twitter/fuujinnn_">Twitter</a>
