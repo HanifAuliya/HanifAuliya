@@ -19,9 +19,9 @@ I'm currently active in Bangkit Academy from Dicoding! and currently I am also w
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/BayuAriyadi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BayuAriyadi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BayuAriyadi&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/HanifAuliya">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanifAuliya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanifAuliya&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
