@@ -25,8 +25,3 @@ I'm currently active in Bangkit Academy from Dicoding! and currently I am also w
 </a>
 </p>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/bayuariyadi/">LinkedIn</a>
-- <a href="https://fuujin.tech">fuujin.tech</a>
-- bayuariyadi@gmail.com
-- <a href="https://twitter/fuujinnn_">Twitter</a>
