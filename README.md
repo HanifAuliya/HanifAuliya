@@ -17,11 +17,13 @@ I'm currently active in Bangkit Academy from Dicoding! and currently I am also w
   <br>
   <br>
   
-### Github Statistic
+### 📊 GitHub Statistics
 <p align="left">
-<a href="https://github.com/HanifAuliya">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanifAuliya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanifAuliya&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/HanifAuliya">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanifAuliya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanifAuliya&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HanifAuliya&theme=algolia)](https://github.com/HanifAuliya)
+
 
