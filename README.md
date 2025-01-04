@@ -24,6 +24,6 @@ I'm currently active in Bangkit Academy from Dicoding! and currently I am also w
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanifAuliya&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HanifAuliya&theme=algolia)](https://github.com/HanifAuliya)
+
 
 
