@@ -38,8 +38,6 @@ Currently, I'm actively learning through **Bangkit Academy by Dicoding** while w
 ---
 
 ### 🌐 **Get in Touch**
-- [LinkedIn](https://www.linkedin.com) *(Replace with your LinkedIn profile URL)*  
-- [Portfolio Website](https://your-portfolio-website.com) *(Replace with your portfolio URL)*  
 - 📧 Email: [Hanifauliyamuhammad@gmail.com](mailto:Hanifauliyamuhammad@gmail.com)
 
 ---
