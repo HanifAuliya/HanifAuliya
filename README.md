@@ -1,23 +1,33 @@
-### Hi! 👋 I'm Hannif.
+### Hi there! 👋 I'm **Hanif Auliya**  
+A **passionate Software Engineer** specializing in **Web Development** and an enthusiast of clean, maintainable code! 🎨 I also enjoy exploring the creative side of technology.  
 
-An independent Software Engineer who loves Mobile Technology and i like Art so much!
+Currently, I'm actively learning through **Bangkit Academy by Dicoding** while working on my thesis (fingers crossed for smooth progress! 🤞).
 
-I'm currently active in Bangkit Academy from Dicoding! and currently I am also working on my thesis (i hope that it goes well T.T)
+---
 
-- 🔭 I’m currently Studying at [Lambung Mangkurat University](https://ulm.ac.id/id/)
-- 💬 Feel free to ask me about Mobile Programming ^^.
-- 📫 How to reach me: Hanifauliyamuhammad@gmail.com
+### 👨‍💻 **About Me**
+- 🎓 **Studying at:** [Lambung Mangkurat University](https://ulm.ac.id/id/)
+- 🌱 **Current Focus:** Enhancing my skills in **Web Development** technologies and frameworks.
+- 💬 **Let's Talk About:** Web development, coding best practices, or career growth in tech!
+- 📧 **Contact Me:** [Hanifauliyamuhammad@gmail.com](mailto:Hanifauliyamuhammad@gmail.com)
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://www.php.net/"><img align="left" alt="php" title="php" width="21px" src="https://iconape.com/wp-content/files/ac/371303/svg/371303.svg" /></a>
-  <a href="https://www.java.com/"><img align="left" alt="Java" title="Java" width="21px" src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" /></a>
-  <a href="https://www.android.com/"><img align="left" alt="Android" title="Android" width="21px" src="https://iconape.com/wp-content/files/uq/385827/svg/385827.svg" /></a>
-  <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://iconape.com/wp-content/files/fg/371054/svg/371054.svg" /></a>
-  <br>
-  <br>
-  
-### 📊 GitHub Statistics
+---
+
+### 🛠️ **Tech Stack**
+<p align="left">
+  <a href="#"><img alt="JavaScript" title="JavaScript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="https://www.php.net/"><img alt="PHP" title="PHP" width="35px" src="https://iconape.com/wp-content/files/ac/371303/svg/371303.svg" /></a>
+  <a href="https://www.java.com/"><img alt="Java" title="Java" width="35px" src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" /></a>
+  <a href="https://kotlinlang.org/"><img alt="Kotlin" title="Kotlin" width="35px" src="https://iconape.com/wp-content/files/fg/371054/svg/371054.svg" /></a>
+  <a href="https://reactjs.org/"><img alt="React" title="React" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
+  <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
+  <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" title="Tailwind CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" /></a>
+</p>
+
+---
+
+### 📊 **GitHub Statistics**
 <p align="left">
   <a href="https://github.com/HanifAuliya">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanifAuliya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -25,5 +35,13 @@ I'm currently active in Bangkit Academy from Dicoding! and currently I am also w
   </a>
 </p>
 
+---
 
+### 🌐 **Get in Touch**
+- [LinkedIn](https://www.linkedin.com) *(Replace with your LinkedIn profile URL)*  
+- [Portfolio Website](https://your-portfolio-website.com) *(Replace with your portfolio URL)*  
+- 📧 Email: [Hanifauliyamuhammad@gmail.com](mailto:Hanifauliyamuhammad@gmail.com)
 
+---
+
+**✨ Let’s connect and create something amazing together!**
