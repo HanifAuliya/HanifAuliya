@@ -1,45 +1,35 @@
-### Hi there! 👋 I'm **Hanif Auliya**  
-A **passionate Software Engineer** specializing in **Web Development** and an enthusiast of clean, maintainable code! 🎨 I also enjoy exploring the creative side of technology.  
-
-Currently, I'm actively learning through **Bangkit Academy by Dicoding** while working on my thesis (fingers crossed for smooth progress! 🤞).
+<h1 align="center">Hi, I'm Hanif Auliya 👋</h1>
+<p align="center"><b>Web Developer · Laravel & PHP</b> — Graduate of Lambung Mangkurat University</p>
 
 ---
 
-### 👨‍💻 **About Me**
-- 🎓 **Studying at:** [Lambung Mangkurat University](https://ulm.ac.id/id/)
-- 🌱 **Current Focus:** Enhancing my skills in **Web Development** technologies and frameworks.
-- 💬 **Let's Talk About:** Web development, coding best practices, or career growth in tech!
-- 📧 **Contact Me:** [Hanifauliyamuhammad@gmail.com](mailto:Hanifauliyamuhammad@gmail.com)
+I build web applications that turn manual, paper-based processes into clear digital workflows. My main stack is **Laravel**, **Livewire**, and **Tailwind CSS**, and I care about code that is clean, maintainable, and easy for the next developer to pick up.
 
----
+- 🎓 Graduated from [Lambung Mangkurat University](https://ulm.ac.id/id/)
+- 📚 Learned through **Bangkit Academy by Dicoding**
+- 🔭 Currently **open to work** as a Web / Backend Developer
+- 📫 Reach me at [hanifauliyamuhammad@gmail.com](mailto:hanifauliyamuhammad@gmail.com)
 
-### 🛠️ **Tech Stack**
-<p align="left">
-  <a href="#"><img alt="JavaScript" title="JavaScript" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://www.php.net/"><img alt="PHP" title="PHP" width="35px" src="https://iconape.com/wp-content/files/ac/371303/svg/371303.svg" /></a>
-  <a href="https://www.java.com/"><img alt="Java" title="Java" width="35px" src="https://iconape.com/wp-content/files/zy/371206/svg/371206.svg" /></a>
-  <a href="https://kotlinlang.org/"><img alt="Kotlin" title="Kotlin" width="35px" src="https://iconape.com/wp-content/files/fg/371054/svg/371054.svg" /></a>
-  <a href="https://reactjs.org/"><img alt="React" title="React" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
-  <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" /></a>
-  <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" title="Tailwind CSS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" /></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" title="MySQL" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" /></a>
+## 🚀 Featured Project
+
+### [SIPKUMDA — Regional Legal Products Information System](https://github.com/HanifAuliya/sipkumda)
+A web application for the Regency Government of Hulu Sungai Tengah that digitizes the full lifecycle of regional legal products — from draft submission, review, and facilitation to final documentation.
+
+- Multi-step approval workflow across **6 user roles** (Admin, Verifier, Researcher, Regional Agency, and more)
+- **Automatic document completeness check** that extracts and analyzes text from uploaded Word/PDF files
+- Real-time notifications, digital signature management, and PDF/Excel exports
+
+`Laravel 11` `Livewire 3` `Tailwind CSS` `MySQL` `Spatie Permission` `Pusher`
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwind,mysql,java,kotlin,git" alt="Tech stack" />
 </p>
 
----
+## 📊 GitHub Stats
 
-### 📊 **GitHub Statistics**
-<p align="left">
-  <a href="https://github.com/HanifAuliya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanifAuliya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanifAuliya&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<p>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanifAuliya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanifAuliya&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
 </p>
-
----
-
-### 🌐 **Get in Touch**
-- 📧 Email: [Hanifauliyamuhammad@gmail.com](mailto:Hanifauliyamuhammad@gmail.com)
-
----
-
-**✨ Let’s connect and create something amazing together!**
