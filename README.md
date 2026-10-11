@@ -24,7 +24,7 @@ A web application for the Regency Government of Hulu Sungai Tengah that digitize
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,tailwind,mysql,java,kotlin,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,react,tailwind,mysql,java,kotlin,python,cpp,git" alt="Tech stack" />
 </p>
 
 ## 📊 GitHub Stats
