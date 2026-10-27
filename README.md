@@ -1,35 +1,20 @@
-<h1 align="center">Hi, I'm Hanif Auliya 👋</h1>
-<p align="center"><b>Web Developer · Laravel & PHP</b> — Graduate of Lambung Mangkurat University</p>
+## Hanif Auliya
 
----
+Web developer focused on Laravel and PHP. I mostly build internal web applications for government and administrative work, replacing manual processes with simple, maintainable systems.
 
-I build web applications that turn manual, paper-based processes into clear digital workflows. My main stack is **Laravel**, **Livewire**, and **Tailwind CSS**, and I care about code that is clean, maintainable, and easy for the next developer to pick up.
+Graduate of Lambung Mangkurat University, currently working as an intern. I also took part in Bangkit Academy's mobile development path, building Android apps with Kotlin.
 
-- 🎓 Graduated from [Lambung Mangkurat University](https://ulm.ac.id/id/)
-- 📚 Learned through **Bangkit Academy by Dicoding**
-- 🔭 Currently **open to work** as a Web / Backend Developer
-- 📫 Reach me at [hanifauliyamuhammad@gmail.com](mailto:hanifauliyamuhammad@gmail.com)
+### Selected projects
 
-## 🚀 Featured Project
+- **[sipkumda](https://github.com/HanifAuliya/sipkumda)** — Information system for drafting, reviewing, and documenting regional legal products. Laravel, Livewire.
+- **[jagaraperda](https://github.com/HanifAuliya/jagaraperda)** — Public portal for submitting and tracking feedback on draft regional regulations. Laravel, Livewire.
+- **[fasih-report](https://github.com/HanifAuliya/fasih-report)** — Web app for managing survey scripts, reports, and progress per district. Laravel, Livewire.
+- **[fasih-auto-complete](https://github.com/HanifAuliya/fasih-auto-complete)** — Browser userscripts that automate repetitive data entry from Excel. JavaScript.
 
-### [SIPKUMDA — Regional Legal Products Information System](https://github.com/HanifAuliya/sipkumda)
-A web application for the Regency Government of Hulu Sungai Tengah that digitizes the full lifecycle of regional legal products — from draft submission, review, and facilitation to final documentation.
+### Tools
 
-- Multi-step approval workflow across **6 user roles** (Admin, Verifier, Researcher, Regional Agency, and more)
-- **Automatic document completeness check** that extracts and analyzes text from uploaded Word/PDF files
-- Real-time notifications, digital signature management, and PDF/Excel exports
+PHP, Laravel, Livewire, JavaScript, Tailwind CSS, MySQL, Kotlin, Git
 
-`Laravel 11` `Livewire 3` `Tailwind CSS` `MySQL` `Spatie Permission` `Pusher`
+### Contact
 
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,react,tailwind,mysql,java,kotlin,python,cpp,git" alt="Tech stack" />
-</p>
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HanifAuliya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HanifAuliya&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
-</p>
+[hanifauliyamuhammad@gmail.com](mailto:hanifauliyamuhammad@gmail.com)
